@@ -1,3 +1,34 @@
+/* Remove tap highlight and focus highlight globally */
+
+*,
+*::before,
+*::after{
+    -webkit-tap-highlight-color: transparent;
+    tap-highlight-color: transparent;
+
+    outline: none;
+}
+
+*:focus,
+*:active,
+*:focus-visible{
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* Disable text selection globally */
+
+*,
+*::before,
+*::after{
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+
+    -webkit-touch-callout:none;
+}
+
 /* ==========================
    SHIMMER ANIMATION
 ========================== */
