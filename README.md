@@ -12,18 +12,4 @@ A beautiful collection of animated skeleton loaders inspired by modern applicati
 
 ---
 
-## 📂 Project Structure
-
-```text
-Skeleton-Loader-Pro/
-│
-├── index.html
-├── style.css
-├── animation.css
-├── script.js
-└── README.md
-```
-
----
-
 ⭐ If you like this project, don't forget to **Star** the repository!
