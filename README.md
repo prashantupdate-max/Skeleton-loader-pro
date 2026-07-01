@@ -12,8 +12,6 @@
 
 A collection of **5 modern skeleton loaders** built using **HTML & CSS**, inspired by popular platforms like **Netflix, YouTube, Amazon, Social Media, and Medium**.
 
----
-
 ## ✨ Features
 
 - 🎬 Netflix Skeleton
